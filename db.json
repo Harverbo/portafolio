@@ -1,0 +1,72 @@
+{
+  "Proyectos": [
+      {
+          "nombre": "Carrión Soluciones",
+          "img": "./img/carrionlogo.png",
+          "descripcion": "Sitio web de la empresa Carrión Soluciones, dedicada a la venta e instalación de puertas automatizadas, operadores y shutters.",
+          "url": "http://www.carrionsoluciones.com"
+      },
+      {
+          "nombre": "Engranaje",
+          "img": "./img/engranajelogo.png",
+          "descripcion": "Sitio web multifuncional con el propósito de compartir contenido de todo tipo que encaje a los gustos de todo tipo de personas.",
+          "url": "http://www.engranaje.me"
+      }
+  ],
+  "Servicios": [
+      {
+        "nombre": "Desarrollo de aplicación web",
+        "img": "./img/desarrollo.jpg",
+        "target": "",
+        "descripcion": "Desarrollo de sitio o aplicación web completa con OOP PHP, Laravel o ReactJS",
+        "url": "#contacto"
+      },
+      {
+        "nombre": "Corrección de BackEnd",
+        "img": "./img/backend.png",
+        "target": "",
+        "descripcion": "Corrección de cualquier función o parte de BackEnd de un sitio o aplicación web desarrollado en PHP o Laravel",
+        "url": "#contacto"
+      },
+      {
+        "nombre": "Redacción de artículo",
+        "img": "./img/Proofread.jpg",
+        "target": "_blank",
+        "descripcion": "Redacción de artículo de cualquier tema",
+        "url": "https://www.fiverr.com/harverbo/write-a-400-or-more-words-spanish-article"
+      },
+      {
+        "nombre": "Corrección de artículo o documento",
+        "img": "./img/article-write.jpg",
+        "target": "_blank",
+        "descripcion": "Corrección de errores de cualquier artículo o documento en español",
+        "url": "https://www.fiverr.com/harverbo/proofread-or-edit-your-spanish-document"
+      }
+    ],
+    "Aprendizaje": [
+      {
+        "nombre": "Desarrollo Web Completo",
+        "img": "./img/certificados/desarrolloweb.jpg",
+        "descripcion": "Desarrollo Web Completo con HTML5, CSS3, JavaScript, JQuery, Ajax, PHP y MySQL desde la plataforma web de Udemy",
+        "url": "https://www.udemy.com/certificate/UC-H16XIP7C/"
+      },
+      {
+        "nombre": "Desarrollo con MySQL",
+        "img": "./img/certificados/mysql.jpg",
+        "descripcion": "Desarrollo completo de bases de datos y aplicaciones CRUD con MySQL",
+        "url": "https://www.udemy.com/certificate/UC-L0OD3ISD/"
+      },
+      {
+        "nombre": "Desarrollo con Laravel",
+        "img": "./img/certificados/laravel.jpg",
+        "descripcion": "Desarrollo completo con Laravel",
+        "url": "https://www.udemy.com/certificate/UC-0ZE88EJ8/"
+      },
+      {
+        "nombre": "Desarrollo con OOP PHP",
+        "img": "./img/certificados/oopphp.jpg",
+        "descripcion": "Desarrollo de sitio web con PHP Orientado a Objeto y el modelo MVC",
+        "url": "https://www.eduonix.com/certificate/7d73661716"
+      }
+    ]
+}
