@@ -11,6 +11,12 @@
           "img": "./img/engranajelogo.png",
           "descripcion": "Sitio web multifuncional con el propósito de compartir contenido de todo tipo que encaje a los gustos de todo tipo de personas.",
           "url": "http://www.engranaje.me"
+      },
+      {
+          "nombre": "Soy Natural",
+          "img": "./img/soynatlogo.png",
+          "descripcion": "Sitio web para presentación en información de productos de Soy Natural.",
+          "url": "http://www.soynaturalrd.com"
       }
   ],
   "Servicios": [
