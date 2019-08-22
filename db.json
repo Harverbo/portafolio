@@ -11,6 +11,12 @@
           "img": "./img/engranajelogo.png",
           "descripcion": "Sitio web multifuncional con el propósito de compartir contenido de todo tipo que encaje a los gustos de todo tipo de personas.",
           "url": "http://www.engranaje.me"
+      },
+      {
+          "nombre": "Soy Natural",
+          "img": "./img/soynatlogo.png",
+          "descripcion": "Sitio web para presentación en información de productos de Soy Natural.",
+          "url": "http://www.soynaturalrd.com"
       }
   ],
   "Servicios": [
@@ -67,6 +73,12 @@
         "img": "./img/certificados/oopphp.jpg",
         "descripcion": "Desarrollo de sitio web con PHP Orientado a Objeto y el modelo MVC",
         "url": "https://www.eduonix.com/certificate/7d73661716"
+      },
+      {
+        "nombre": "React y Redux",
+        "img": "./img/certificados/react.jpg",
+        "descripcion": "Desarrollo de aplicaciones web con React y Redux",
+        "url": "https://www.udemy.com/certificate/UC-E0H7CGDX/"
       }
     ]
 }
