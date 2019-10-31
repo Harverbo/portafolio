@@ -79,6 +79,12 @@
         "img": "./img/certificados/react.jpg",
         "descripcion": "Desarrollo de aplicaciones web con React y Redux",
         "url": "https://www.udemy.com/certificate/UC-E0H7CGDX/"
+      },
+      {
+        "nombre": "React Native Expo",
+        "img": "./img/certificados/expo.jpg",
+        "descripcion": "Desarrollo de aplicaciones móviles con React Native y Expo",
+        "url": "https://www.udemy.com/certificate/UC-XZI5OT11/"
       }
     ]
 }
