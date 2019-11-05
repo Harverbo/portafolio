@@ -85,6 +85,12 @@
         "img": "./img/certificados/expo.jpg",
         "descripcion": "Desarrollo de aplicaciones móviles con React Native y Expo",
         "url": "https://www.udemy.com/certificate/UC-XZI5OT11/"
+      },
+      {
+        "nombre": "Electron",
+        "img": "./img/certificados/electron.jpg",
+        "descripcion": "Desarrollo de aplicaciones de escritorio multiplataforma con Electron",
+        "url": "https://www.udemy.com/certificate/UC-0BPLQ8L3/"
       }
     ]
 }
